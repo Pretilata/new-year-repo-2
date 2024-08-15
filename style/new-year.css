@@ -1,5 +1,6 @@
 body{
     font-family: "Merriweather", serif;
+    font-family: "Inter", sans-serif;
     max-width: 1600px;
 }
 .banner{
@@ -24,4 +25,35 @@ body{
     padding:0px 340px 177px;
     margin-top: 16px;
     text-align:center ;
+}
+.section{
+    margin-top: 120px;
+}
+.off{
+    font-size: 88px;
+    font-weight: 700px;
+    text-align: center;
+    color: rgb(255, 0, 0);
+
+}
+.holiday-deal{
+    font-size: 24px;
+    font-weight: 500px;
+    text-align: center;
+    color: rgb(255, 0, 0);
+    margin-top: 49px;
+}
+.all-catagory{
+    font-weight: 700px;
+    font-size: 48px;
+    text-align: center;
+    color:rgb(7, 2, 17);
+    margin-top: 16px;
+    margin-bottom: 47px;
+
+}
+.new-year-image{
+    Width:802.9px;
+    Height:500px;
+    margin:0px 398.1px 0px 399px;
 }
