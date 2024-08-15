@@ -57,3 +57,43 @@ body{
     Height:500px;
     margin:0px 398.1px 0px 399px;
 }
+.welcome-all{
+    display: flex;
+    gap:39.17px;
+    background-image:linear-gradient(rgb(7, 2, 17),rgba(7, 2, 17, 0)),url('../image/Vectorrr.png');
+    background-repeat: no-repeat;
+    Width:1320px;
+    Height:600px;
+    border-radius: 16px;
+    margin: 0px auto;
+}
+.welcome{
+    font-weight: 900px;
+    font-size: 64px;
+    color:rgb(255, 255, 255);
+    padding: 126px 94.17px 0px 126px;
+    margin-bottom:24px ;
+}
+.welcome-detail{
+    font-size: 18px;
+    font-weight: 400px;
+    color:rgba(255, 255, 255, 0.8);
+    padding: 0px 0px 0px 126px;
+    margin-bottom: 48px;
+    
+}
+.join-now{
+    padding: 0px 0px 142px 158px ;
+    color:rgb(255, 255, 255);
+    text-align: center;
+    font-size: 20px;
+    font-weight: 700px;
+    text-decoration: none;
+    
+}
+   
+.welcome-image{
+    Width:319.83px;
+    Height:464.66px;
+    padding: 68.11px 138px 67.23px 0px;
+}
