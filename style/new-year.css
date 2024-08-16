@@ -269,7 +269,7 @@ span{
 }
 .function-pic{
     display: flex;
-    gap:70px;
+    gap:60px;
     align-items: center;
 
 }
@@ -283,6 +283,50 @@ span{
     height: 220.05px;
     margin-top: -170px;
 }
-
-
+.gift{
+    width:1320px;
+    margin:0px auto;
+}
+.gift-head{
+    font-family: "Inter", sans-serif;
+    font-size: 24px;
+    font-weight: 500px;
+    color:rgb(255, 0, 0);
+}
+.gift-heading{
+    font-family: "Merriweather", serif;
+    font-size:48px;
+    font-weight: 900px;
+    color:rgb(7, 2, 17);
+    margin-top: 16px;
+}
+.gift-detail{
+    font-family: "Inter", sans-serif;
+    font-weight: 400px;
+    font-size:20px;
+    color:rgba(7, 2, 17, 0.6);
+    Width:896px;
+    Height:64px;
+    margin-top: 22px;
+    margin-bottom: 64px;
+}
+.all-image{
+    width:1320px;
+    margin:0px auto;
+}
+.picture {
+    width: 424px;
+    height: 450px;
+    border-radius: 16px;
+}
+.images{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 24px 24px;
+}
+.images :hover {
+    transform: scale(1.2);
+    transition: 1s;
+    display: block;
+}
 
