@@ -36,6 +36,13 @@ body{
 }
 .section{
     margin-top: 120px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.off-section{
+    width:802.9px;
+    height: 806px;
+    margin: 0px auto;
 }
 .off{
     font-family: "Inter", sans-serif;
@@ -66,7 +73,7 @@ body{
 .new-year-image{
     Width:802.9px;
     Height:500px;
-    margin:0px 398.1px 0px 399px;
+    
 }
 .welcome-all{
     display: flex;
@@ -197,8 +204,7 @@ span{
     font-weight: 700px;
     color:700px;
     margin-bottom: 15px;
-    padding:0px 0px 0px 48.33px;
-    
+    padding:0px 0px 0px 48.33px;    
 }
 .year-detail{
     font-family: "Inter", sans-serif;
@@ -209,13 +215,74 @@ span{
     padding:0px 0px 0px 48px;
     Width:276px;
     Height:96px;
-    
-
 }
 .group-96{
-    height: 150px;
+    height: 140px;
     width: 150px;
-    padding:0px 0px 2px 48px;
-    
+    padding:0px 0px 2px 48px;    
 }
+.function{
+    width:1320px;
+    margin: 0px auto;
+}
+.function-head{
+    width:1068px;
+    height:260px;
+    margin: 0px auto;
+}
+.fun-head{
+    font-family: "Inter", sans-serif;
+    font-size: 24px;
+    font-weight: 500px;
+    color:rgb(7, 2, 17);
+    text-align: center;
+
+}
+.function-heading{
+    font-family: "Merriweather", serif;
+    font-size: 72px;
+    font-weight: 900px;
+    text-align: center;
+    color:rgb(7, 2, 17);
+    margin-top: 16px;
+
+}
+.function-detail{
+    font-family: "Inter", sans-serif;
+    font-weight: 500px;
+    font-size: 20px;
+    text-align: center;
+    color:rgba(7, 2, 17, 0.6);
+    Width:1068px;
+    Height:96px;
+    margin-top: 16px;
+}
+.function-image{
+    margin-top: 64px;
+    Width:1320px;
+    Height:662.07px;
+    margin: 0px auto;
+    background-image: url('../image/Rectangle\ 2.png'),url('../image/Rectangle\ 1.png');
+    background-repeat: no-repeat;
+    background-position: bottom,top right;
+    background-size: 1320px 229px, 429px 433px;
+}
+.function-pic{
+    display: flex;
+    gap:70px;
+    align-items: center;
+
+}
+.pic-1{
+    width:674.82px;
+    height:577.96px;
+    margin: 0px 0px 84.11px 60.83px;
+}
+.pic-2{
+    width:220.05px;
+    height: 220.05px;
+    margin-top: -170px;
+}
+
+
 
